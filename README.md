@@ -1,0 +1,2 @@
+# easygo
+easygo basic service
